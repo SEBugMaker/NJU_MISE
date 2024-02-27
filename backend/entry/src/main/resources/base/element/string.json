@@ -1,0 +1,117 @@
+{
+  "string": [
+
+    {
+      "name": "ability_desc",
+      "value": "This ability loads LoginPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "Login Ability"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "username",
+      "value": "请输入用户名"
+    },
+    {
+      "name": "password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "register",
+      "value": "Register"
+    },
+    {
+      "name": "jump_mine_page_text",
+      "value": "Click to go to my page"
+    },
+    {
+      "name": "register_success_text",
+      "value": "Register success"
+    },
+    {
+      "name": "problem_encountered",
+      "value": "Problem encountered"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "Privacy statement"
+    },
+    {
+      "name": "mine_page_title",
+      "value": "My"
+    },
+    {
+      "name": "user_nickname",
+      "value": "Han Meimei"
+    },
+    {
+      "name": "component_list_item_text",
+      "value": "Title%d"
+    },
+    {
+      "name": "service_hotline",
+      "value": "Service hotline"
+    },
+    {
+      "name": "email",
+      "value": "Official email address"
+    },
+    {
+      "name": "hotline_number",
+      "value": "12xxx"
+    },
+    {
+      "name": "email_address",
+      "value": "xxx@yyy.com"
+    },
+    {
+      "name": "contact_customer_service",
+      "value": "Contact customer service"
+    },
+    {
+      "name": "case_name_a",
+      "value": "感冒"
+    },
+    {
+      "name": "case_sub_name_a",
+      "value": "一种由呼吸道病毒引起的传染性疾病"
+    },
+    {
+      "name": "introduction_case_first_a",
+      "value": "感冒是一种由呼吸道病毒引起的传染性疾病，通常表现为流感症状，如喉咙痛、流感、咳嗽、打喷嚏、头痛和全身乏力。感冒通常是由冠状病毒或流感病毒引起的，它们通过飞沫传播，例如当一个感冒患者咳嗽或打喷嚏时，周围的人可能通过吸入空气中的飞沫而感染。"
+    },
+    {
+      "name": "introduction_case_second_a",
+      "value": "我们经常会把生活中的很多症状，例如打喷嚏、咳嗽、咽喉痛、鼻塞、流鼻涕、发烧等归因为感冒。但并不是所有人都知道什么是感冒，例如上回我问一个人感冒是什么时，他回答说是打喷嚏、咳嗽、咽喉痛、鼻塞、流鼻涕、发烧。所以，要想有效预防感冒首先需要做的是搞清楚什么是感冒。\n\n2013年中国儿童普通感冒规范诊治专家共识[1]指出普通感冒是急性鼻咽炎，又称上呼吸道感染（upper respiratory tract infection）。在‘共识’[1]和其他国内外的研究中，感冒的主要病原被确定为病毒性病原[2,3,4,5,6,7,8]，病原包括六种主要病毒：鼻病毒（rhinovirus）、冠状病毒（coronavirus）、呼吸道合胞病毒、副流感病毒、腺病毒、肠道病毒。也就是说，风大、天冷、穿的少、冻着了并不是直接导致感冒发生的因素，而是这些因素使我们更容易得感冒。为什么？因为这些因素使我们的免疫系统受到抑制，而这样的免疫抑制使得我们暴露在病原中时更加容易感染。"
+    },
+    {
+      "name": "health_management",
+      "value": "Health Management"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "health_name",
+      "value": "%s"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "record",
+      "value": "record"
+    }
+  ]
+}

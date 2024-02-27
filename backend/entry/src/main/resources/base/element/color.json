@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "privacy_statement_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "problem_encountered_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "black",
+      "value": "#111111"
+    },
+    {
+      "name": "grey",
+      "value": "#6FFFFFFF"
+    },
+    {
+      "name": "deep_blue",
+      "value": "#FF100EEA"
+    },
+    {
+      "name": "light_blue",
+      "value": "#FF4D98FA"
+    },
+    {
+      "name": "light_black",
+      "value": "#FF323232"
+    },
+    {
+      "name": "bottom_tabs_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "bottom_tabs_font_color",
+      "value": "#000000"
+    },
+    {
+      "name": "bottom_tabs_font_color_selected",
+      "value": "#007DFF"
+    },
+    {
+      "name": "color_border",
+      "value": "#FF182431"
+    },
+    {
+      "name": "introduction_page_green",
+      "value": "#346B41"
+    },
+    {
+      "name": "common_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "font_color_black",
+      "value": "#000000"
+    }
+  ]
+}
